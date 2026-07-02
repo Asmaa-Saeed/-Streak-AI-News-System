@@ -76,50 +76,11 @@ Responsible for:
 
 ---
 
-# ⚙️ Workflow
+# ⚙️ System Architecture
 
-```text
-User
+![System Architecture](Images/streak_architecture_diagram.svg)
 
-↓
 
-Telegram Bot
-
-↓
-
-Upload Video
-
-↓
-
-PostgreSQL
-Supabase
-
-↓
-
-Admin Review
-
-↓
-
-Approve
-
-↓
-
-FFmpeg Video Processing
-
-↓
-
-Generate Metadata
-
-↓
-
-Publish
-
-├── TikTok
-├── Instagram
-├── Facebook
-├── YouTube
-└── Telegram Channel
-```
 
 ---
 
