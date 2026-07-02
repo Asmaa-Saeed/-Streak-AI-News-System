@@ -180,8 +180,20 @@ This repository demonstrates the overall system architecture, engineering approa
 ---
 
 # 📸 Screenshots
+## Screenshots
 
-> *(Screenshots of the workflow, architecture, and publishing dashboard can be added here after removing any sensitive information.)*
+### User Workflow
+
+![User Workflow](Images/streak-user-bot.PNG)
+
+### Admin Workflow
+
+![Admin Workflow](Images/admin_bot.PNG)
+
+### Publishing Result
+
+![Publishing](images/publishing.png)
+> 
 
 ---
 
